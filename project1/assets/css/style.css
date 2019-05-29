@@ -1,0 +1,31 @@
+header h3{
+	font-family: 'Playfair Display', serif;
+	font-weight: 1000;
+}
+nav{
+	background:none!important;
+	border-bottom: none!important;
+}
+.navbar-right ul{
+    margin-top: 10px;
+    
+}
+.navbar-right li{
+	padding-left: 20px;
+	font-size: 14px;
+}
+.navbar-right a{
+	text-decoration: none;
+	color: black!important;
+}
+.list ul{
+	text-align: center;
+	background:none!important;
+}
+.list li{
+	padding: 15px;
+	font-size: 18px;
+}
+.list a{
+	color: black;
+}
